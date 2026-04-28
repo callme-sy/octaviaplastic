@@ -1,0 +1,12 @@
+# OMX runtime state
+.omx/
+
+# Sisyphus state
+.sisyphus/
+
+# Backup files
+index_backup_*.html
+
+# OS files
+.DS_Store
+Thumbs.db
